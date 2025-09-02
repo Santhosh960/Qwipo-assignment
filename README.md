@@ -24,6 +24,7 @@ Axios - HTTP client
 CSS3 - Modern styling with responsive design
 📁 Project Structure
 customer-management-app/
+
 ├── server/                 # Backend code
 │   ├── database/          # Database setup and connection
 │   ├── middleware/        # Validation middleware
@@ -40,6 +41,7 @@ customer-management-app/
 │   │   └── index.js       # React entry point
 │   └── package.json       # Frontend dependencies
 └── package.json           # Root package.json
+
 🚀 Quick Start
 Prerequisites
 Node.js (v14 or higher)
