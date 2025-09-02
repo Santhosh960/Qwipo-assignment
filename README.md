@@ -59,8 +59,8 @@ npm run db:init
 npm start
 This will start:
 
-Backend: http://localhost:5000
-Frontend: http://localhost:3000
+Backend: http://localhost:5000/
+Frontend: http://localhost:3000/
 Alternative: Run Separately
 # Terminal 1 - Start backend
 npm run server
